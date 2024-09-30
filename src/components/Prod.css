@@ -1,0 +1,14 @@
+.Item{
+    background-color: rgb(113, 180, 225);
+    width: 140px;
+    display: flex;
+    margin: 20px;
+    outline: 1px solid black;
+    padding: 30px;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 20px;
+}
+
+.FItem{
+    display: inline-block;
+}
